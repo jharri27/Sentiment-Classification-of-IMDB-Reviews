@@ -9,7 +9,7 @@ Packages:     Pandas, NLTK, sklearn\
 Buzz:         Machine learning, natural language processing, naive Bayes, sentiment lexicon, feature sets
 </pre>
 \
-Project Description:\
+Project Description:
 
 The task for this project was to take a Kaggle dataset containing 156,060 phrases, and to train and test a sentiment classification process, with the goal of attaining the best F1 score, a statistic that represents the harmonic average of the precision and recall of a classifier.  My approach was to build a baseline classifier using a "bag of words" feature, and then try various other classifiers and combinations of classifiers to try to find the best F1 score possible.\
 \
@@ -18,4 +18,4 @@ Copy the folder 'kagglemoviereviews' to a place of your choosing.  Open the Jupy
 \
 Also, please read 'James_Harris_FinalProject_v4.docx' for my report.\
 \
-Thanks for taking the time to view my project.\
+Thanks for taking the time to view my project.
