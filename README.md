@@ -1,11 +1,11 @@
 # Sentiment Classification of IMDB Reviews
 <pre>
-Class:        IST 664 - Natural Language Processing\
-Assignment:   Final Project\
-Dataset:      Kaggle IMDB movie reviews: 156,060 rows, 4 columns\
-Task:         Sentiment classification\
-Language:     Python\
-Packages:     Pandas, NLTK, sklearn\
+Class:        IST 664 - Natural Language Processing
+Assignment:   Final Project
+Dataset:      Kaggle IMDB movie reviews: 156,060 rows, 4 columns
+Task:         Sentiment classification
+Language:     Python
+Packages:     Pandas, NLTK, sklearn
 Buzz:         Machine learning, natural language processing, naive Bayes, sentiment lexicon, feature sets
 </pre>
 \
